@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ## Usage (use Python 2.7)
 
 ```bash
-python2.7 brute.py
+python2.7 wpbrute.py
 ```
 
 ```bash
