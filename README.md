@@ -8,7 +8,10 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install require
 pip install -r requirements.txt
 ```
 
-## Usage (use Python 2.7)
+## Demo
+Demo: https://www.youtube.com/watch?v=r1i7M_83oL4
+
+## Usage
 
 Get all the available options by:
 ```bash
@@ -61,5 +64,3 @@ EXAMPLES:
 ## Tested On
 - Linux Mint
 
-## Demo
-Demo: https://www.youtube.com/watch?v=r1i7M_83oL4
